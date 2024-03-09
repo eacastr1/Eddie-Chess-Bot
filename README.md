@@ -1,4 +1,4 @@
-MyBot is a bot that I developed in Java around a pre-existing Chess package made by Stephen G Ware.
+Very specifically, the MyBot class, is a bot that I developed in Java around a pre-existing Chess package made by Stephen G Ware.
 To run the bot in a tournament or play it against it directly, follow this path
 Eddie-Chess-Bot\src\com\stephengware\java\games\chess\bot
 You can run the Test.java file to start a tournament between other bots, you can comment out which bots you wish not to participate in the tournmanent, and vice versa.
